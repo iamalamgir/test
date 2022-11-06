@@ -1,0 +1,11 @@
+--2022-11-06 23:02:42--  https://dummyimage.com/600x400/000/fff
+Resolving dummyimage.com (dummyimage.com)... 104.21.78.230, 172.67.137.245, 2606:4700:3030::6815:4ee6, ...
+Connecting to dummyimage.com (dummyimage.com)|104.21.78.230|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1785 (1.7K) [image/png]
+Saving to: ‘fff’
+
+     0K .                                                     100% 6.92M=0s
+
+2022-11-06 23:02:43 (6.92 MB/s) - ‘fff’ saved [1785/1785]
+
